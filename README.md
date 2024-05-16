@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EduardoEurico
 - 👀 I’m interested in study to be a back-end developer.
 - 🌱 I’m currently learning python, JS, HTML.
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me eduardoeurico11@gmail.com
 
 <!---
