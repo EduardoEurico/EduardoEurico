@@ -20,7 +20,6 @@
 ### Contato
 📫 **Email:** [eduardoeurico11@gmail.com](mailto:eduardoeurico11@gmail.com)  
 🌐 **LinkedIn:** [Eduardo Eurico](https://www.linkedin.com/in/eduardo-eurico)  
-🖥️ **Portfólio:** [Meu Portfólio](#)
 
 ---
 
@@ -33,7 +32,7 @@
 - 🔒 **[Ifome](https://github.com/EduardoEurico/ifome):** Plataforma inspirada no iFood, desenvolvida com Vue.js e Go.
 - 🚀 **[Sistema de Controle de Ponto](https://github.com/EduardoEurico/web-js):** Sistema web para gestão de ponto, usando HTML, CSS e JavaScript.
 - 🛠️ **[API de Heroes](https://github.com/EduardoEurico/Heroimon/tree/Eurico):** API para gerenciamento de heróis, desenvolvida com Flask.
-- 📊 **[Organizador Excel](https://github.com/EduardoEurico/Organizador-Excell):** Ferramenta em Python para organizar e gerar planilhas de forma eficiente.
+- 📊 **[Organizador Excel](https://github.com/EduardoEurico/Organizador-Excell):** Ferramenta em Python para organizar e gerar planilhas bancarias de forma eficiente.
 
 
 ---
