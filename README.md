@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @EduardoEurico
-- 👀 I’m interested in study to be a back-end developer.
-- 🌱 I’m currently learning Python, Go, Java.
+# 👋 Olá! Eu sou o Eduardo Eurico
 
-- 📫 How to reach me eduardoeurico11@gmail.com
+### Sobre Mim
+- 🎯 Aspirante a **Analista de Segurança da Informação** com interesse em proteger sistemas, dados e redes contra ameaças.
+- 💻 Atualmente, estou aprendendo sobre **IA** e **Cybersegurança** para me aprofundar em ferramentas e técnicas de cibersegurança.
+- 🌱 Sempre aberto a novos desafios e aprendizados no mundo da tecnologia.
 
+---
+
+### Habilidades e Tecnologias
+- 🚀 **Linguagens:** Python, Go, Java, HTML, CSS, JavaScript
+- 🛠️ **Ferramentas:** Docker, Git, GitHub, Flask
+- 🗂️ **Banco de Dados:** PostgreSQL, MySQL, SQL (CRUD)
+- 💻 **Sistemas Operacionais:** Windows e Linux
+- 📦 **Pacote 365:** Word, Excel, PowerPoint
+- 🧠 **Áreas de Interesse:** Segurança em Redes, IA Generativa
+
+---
+
+### Contato
+📫 **Email:** [eduardoeurico11@gmail.com](mailto:eduardoeurico11@gmail.com)  
+🌐 **LinkedIn:** [Eduardo Eurico](https://www.linkedin.com/in/eduardo-eurico)  
+🖥️ **Portfólio:** [Meu Portfólio](#)
+
+---
+
+### Estatísticas do GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoEurico&show_icons=true&theme=radical)
 
-<!---
-EduardoEurico/EduardoEurico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Projetos em Destaque
+- 🔒 **[Ifome](https://github.com/EduardoEurico/ifome):** Plataforma inspirada no iFood, desenvolvida com Vue.js e Go.
+- 🚀 **[Sistema de Controle de Ponto](https://github.com/EduardoEurico/sistema-ponto):** Sistema web para gestão de ponto, usando HTML, CSS e JavaScript.
+- 🛠️ **[API de Heroes](https://github.com/EduardoEurico/heroes-api):** API para gerenciamento de heróis, desenvolvida com Flask.
+- 📊 **[Organizador Excel](https://github.com/EduardoEurico/Organizador-Excell):** Ferramenta em Python para organizar e gerar planilhas de forma eficiente.
+
+
+---
