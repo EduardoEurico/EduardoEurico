@@ -30,7 +30,7 @@
 
 ### Projetos em Destaque
 - 🔒 **[Ifome](https://github.com/EduardoEurico/ifome):** Plataforma inspirada no iFood, desenvolvida com Vue.js e Go.
-- 🛠️ **[API de Heroes](https://github.com/EduardoEurico/Heroimon/tree/Eurico):** API para gerenciamento de heróis, desenvolvida com Flask.
+
 - 📊 **[Organizador Excel](https://github.com/EduardoEurico/Organizador-Excell):** Automação em Python para organizar e gerar planilhas bancarias de forma eficiente.
 
 
